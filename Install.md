@@ -126,19 +126,11 @@ ping -c 3 archlinux.org
 
 ```shell
 sudo pacman -S reflector rsync python --noconfirm
-
+# fast servers
 sudo reflector --verbose --latest 15 --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
-# Directory structure: Desktop, Documents, Pictures
+## Directory structure: Desktop, Documents, Pictures
 ```shell 
 pacman -S xdg-user-dirs
-```
-### BlackArch
-```shell
-cd /tmp
-curl -O https://blackarch.org/strap.sh
-chmod +x strap.sh
-./strap.sh
-
 ```
