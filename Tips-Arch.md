@@ -1,7 +1,6 @@
+ 
+<h2 align="center"> <samp>Tips para Arch Linux</samp></h2>
 
-<div align="center">
- <samp>Tips para Arch Linux</samp>
-</div> 
 
 ## Cambiar Idioma del Teclado en Terminal
 ```shell
