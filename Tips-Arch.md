@@ -2,6 +2,7 @@
 <div align="center">
  <samp>Tips para Arch Linux</samp>
 </div> 
+
 ## Cambiar Idioma del Teclado en Terminal
 ```shell
 localectl list-x11-keymap-layouts
