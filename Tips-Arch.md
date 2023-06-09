@@ -1,6 +1,35 @@
  
 <h2 align="center"> <samp>Tips para Arch Linux</samp></h2>
 
+## Contenido:
+
+- [Contenido:](#contenido)
+- [Cambiar Idioma del Teclado en Terminal](#cambiar-idioma-del-teclado-en-terminal)
+- [Para montar particiones ntfs y exfat](#para-montar-particiones-ntfs-y-exfat)
+  - [Montar un USB o Disco Externo](#montar-un-usb-o-disco-externo)
+- [Conectarse a un Red Wi-Fi](#conectarse-a-un-red-wi-fi)
+- [Instalación de Maquina Virtual:](#instalación-de-maquina-virtual)
+  - [Usando VirtualBox](#usando-virtualbox)
+  - [Instalando KVM, QUEMU y Virt Manager](#instalando-kvm-quemu-y-virt-manager)
+- [Quitar permiso de Ejecución de un fichero sin perder otras propiedades:](#quitar-permiso-de-ejecución-de-un-fichero-sin-perder-otras-propiedades)
+- [Copiar Archivos usando RSYNC](#copiar-archivos-usando-rsync)
+- [Descarga de Man](#descarga-de-man)
+- [Grep Tips: manejo basico(usando plocate)](#grep-tips-manejo-basicousando-plocate)
+- [Configuración de la pantalla](#configuración-de-la-pantalla)
+- [Comprobar el driver de video en uso](#comprobar-el-driver-de-video-en-uso)
+- [Establececer fondo de pantalla usando 'feh'](#establececer-fondo-de-pantalla-usando-feh)
+- [Agregar Fuentes](#agregar-fuentes)
+- [Instalar Drive de Audio, usando PipeWire](#instalar-drive-de-audio-usando-pipewire)
+- [Instalacion de Repositorios](#instalacion-de-repositorios)
+  - [Repositorio yay](#repositorio-yay)
+  - [Repositorio Paru](#repositorio-paru)
+  - [Repositorio de BlackArch](#repositorio-de-blackarch)
+- [Instalación de Maquina Virtual:](#instalación-de-maquina-virtual-1)
+  - [Usando VirtualBox](#usando-virtualbox-1)
+  - [Instalando KVM, QUEMU y Virt Manager](#instalando-kvm-quemu-y-virt-manager-1)
+- [Crear un Dual-Boot(Linux-Windows)](#crear-un-dual-bootlinux-windows)
+- [UFW (Uncomplicated Firewall)](#ufw-uncomplicated-firewall)
+
 
 ## Cambiar Idioma del Teclado en Terminal
 ```shell

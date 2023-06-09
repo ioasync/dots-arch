@@ -5,8 +5,8 @@
 
 ## :loudspeaker: <samp>Contenido</samp>
 - [Instalacion de Arch Linux](#instalacion-de-arch-linux)
-  - [Tips para Linux](#space_invader-tips-para-linux)
-  - [Servidor Gráfico](#rocket-servidor-gráfico)
+  - [:space\_invader: Tips para Linux](#space_invader-tips-para-linux)
+  - [:rocket: Servidor Gráfico](#rocket-servidor-gráfico)
   - [Instalación base de i3 (I)](#instalación-base-de-i3-i)
   - [Instalación base de BSPWM (II)](#instalación-base-de-bspwm-ii)
   - [Instalacion Gestor de Inicio de Sesión](#instalacion-gestor-de-inicio-de-sesión)
