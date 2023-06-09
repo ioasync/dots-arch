@@ -185,6 +185,9 @@ sudo pacman -S gparted
 sudo nano /etc/default/grub
 # Posteriormente actualizarlo
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+# Posible error de sincronización de la hora en windows(UTC), agregar:
+reg add "HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\TimeZoneInformation" /v RealTimeIsUniversal /d 1 /t REG_DWORD /f
+
 ```
 ## UFW (Uncomplicated Firewall)
 
